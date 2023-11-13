@@ -224,7 +224,7 @@ body {
 
 .btn,
 .btn_blue:hover {
-    color: #00cbf6;
+    background-color: #00cbf6;
     transition: all 2s linear;
 }
 
