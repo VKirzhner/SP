@@ -223,7 +223,7 @@ body {
 }
 
 .btn,
-.btn_blue {
+.btn_blue:hover {
     color: #00cbf6
 
 
