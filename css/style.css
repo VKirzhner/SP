@@ -218,14 +218,13 @@ body {
     cursor: pointer;
 }
 
+
 .btn_blue {
     background-color: #18cfab;
 }
 
-.btn,
-.btn_blue:hover {
+.btn:hover {
     background-color: #00cbf6;
-    transition: all 2s linear;
 }
 
 
