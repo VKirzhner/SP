@@ -219,8 +219,12 @@ body {
 }
 
 .btn_blue {
-    background-color: #00cbf6;
+    background-color: #18cfab;
 }
+
+.btn,
+.btn_blue {
+    color: #00cbf6
 
 
 
