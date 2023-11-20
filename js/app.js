@@ -134,7 +134,7 @@ window.onload = function () {
     }
 
     leftArrow.addEventListener("click", function () {
-        playSlide((currentSlide -= 1));
+        playSlide((currentSlide - 1));
     });
 
     rightArrow.addEventListener("click", function () {
