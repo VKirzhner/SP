@@ -321,6 +321,7 @@ body {
 
 .our_services_tabs {
     margin-top: 100px;
+    max-width: 1160px;
 }
 
 .tabs {
